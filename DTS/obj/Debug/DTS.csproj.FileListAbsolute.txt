@@ -1,0 +1,1040 @@
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\DTS.dll.config
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\DTS.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\DTS.pdb
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Antlr3.Runtime.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\DATALayer.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\EntityFramework.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\EntityFramework.SqlServer.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.Owin.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.Owin.Security.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Newtonsoft.Json.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Owin.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\RepositryLayer.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\ServiceLayer.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\System.Net.Http.Formatting.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\System.Web.Helpers.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\System.Web.Http.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\System.Web.Http.Owin.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\System.Web.Http.WebHost.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\System.Web.Mvc.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\System.Web.Optimization.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\System.Web.Razor.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\System.Web.WebPages.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\WebGrease.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\DATALayer.pdb
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\RepositryLayer.pdb
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\ServiceLayer.pdb
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Newtonsoft.Json.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\System.Net.Http.Formatting.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\System.Web.Helpers.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\System.Web.Http.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\System.Web.Http.WebHost.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\System.Web.Mvc.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\System.Web.Optimization.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\System.Web.Razor.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\System.Web.WebPages.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Antlr3.Runtime.pdb
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\EntityFramework.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\EntityFramework.SqlServer.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.Owin.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.Owin.Security.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\System.Web.Http.Owin.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\obj\Debug\DTS.csprojResolveAssemblyReference.cache
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\obj\Debug\DTS.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\obj\Debug\DTS.pdb
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Ninject.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Ninject.Web.Common.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Ninject.Web.Mvc.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\WebActivatorEx.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Ninject.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Ninject.Web.Common.xml
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\DTS\bin\Ninject.Web.Mvc.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\DTS.dll.config
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\DTS.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\DTS.pdb
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Antlr3.Runtime.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\DATALayer.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\EntityFramework.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\EntityFramework.SqlServer.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.Owin.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Google.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.Web.Infrastructure.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Newtonsoft.Json.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Ninject.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Ninject.Web.Common.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Ninject.Web.Mvc.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Owin.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\RepositryLayer.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\ServiceLayer.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Net.Http.Formatting.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Web.Cors.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Web.Helpers.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Web.Http.Cors.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Web.Http.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Web.Http.Owin.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Web.Http.WebHost.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Web.Mvc.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Web.Optimization.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Web.Razor.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Web.WebPages.Deployment.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Web.WebPages.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Web.WebPages.Razor.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\WebActivatorEx.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\WebGrease.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\DATALayer.pdb
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\RepositryLayer.pdb
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\ServiceLayer.pdb
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\EntityFramework.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\EntityFramework.SqlServer.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Ninject.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Ninject.Web.Common.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Ninject.Web.Mvc.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Web.Http.Cors.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Newtonsoft.Json.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Net.Http.Formatting.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Web.Helpers.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Web.Http.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Web.Http.WebHost.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Web.Mvc.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Web.Optimization.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Web.Razor.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Web.WebPages.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Web.WebPages.Deployment.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Web.WebPages.Razor.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Antlr3.Runtime.pdb
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.Owin.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Google.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\bin\System.Web.Http.Owin.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\obj\Debug\DTS.csprojResolveAssemblyReference.cache
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\obj\Debug\DTS.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\DTS\obj\Debug\DTS.pdb
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\DTS.dll.config
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\DTS.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\DTS.pdb
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Antlr3.Runtime.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\DATALayer.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\EntityFramework.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\EntityFramework.SqlServer.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.Owin.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.Owin.Security.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Google.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.Web.Infrastructure.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Newtonsoft.Json.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Ninject.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Ninject.Web.Common.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Ninject.Web.Mvc.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Owin.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\RepositryLayer.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\ServiceLayer.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Net.Http.Formatting.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Web.Cors.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Web.Helpers.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Web.Http.Cors.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Web.Http.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Web.Http.Owin.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Web.Http.WebHost.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Web.Mvc.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Web.Optimization.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Web.Razor.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Web.WebPages.Deployment.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Web.WebPages.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Web.WebPages.Razor.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\WebActivatorEx.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\WebGrease.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\DATALayer.pdb
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\RepositryLayer.pdb
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\ServiceLayer.pdb
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\EntityFramework.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\EntityFramework.SqlServer.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Ninject.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Ninject.Web.Common.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Ninject.Web.Mvc.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Web.Http.Cors.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Newtonsoft.Json.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Net.Http.Formatting.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Web.Helpers.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Web.Http.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Web.Http.WebHost.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Web.Mvc.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Web.Optimization.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Web.Razor.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Web.WebPages.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Web.WebPages.Deployment.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Web.WebPages.Razor.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Antlr3.Runtime.pdb
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.Owin.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.Owin.Security.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Google.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\bin\System.Web.Http.Owin.xml
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\obj\Debug\DTS.csprojResolveAssemblyReference.cache
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\obj\Debug\DTS.dll
+D:\Day User\ProjectDTS\1Nov\DTS\DTS\DTS\obj\Debug\DTS.pdb
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\DTS.dll.config
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\DTS.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\DTS.pdb
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Antlr3.Runtime.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\DATALayer.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\EntityFramework.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\EntityFramework.SqlServer.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Newtonsoft.Json.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Ninject.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Ninject.Web.Common.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Ninject.Web.Mvc.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Owin.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\RepositryLayer.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\ServiceLayer.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Net.Http.Formatting.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Web.Cors.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Web.Helpers.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Web.Http.Cors.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Web.Http.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Web.Http.Owin.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Web.Http.WebHost.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Web.Mvc.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Web.Optimization.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Web.Razor.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Web.WebPages.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\WebActivatorEx.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\WebGrease.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\DATALayer.pdb
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\RepositryLayer.pdb
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\ServiceLayer.pdb
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\EntityFramework.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\EntityFramework.SqlServer.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Ninject.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Ninject.Web.Common.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Ninject.Web.Mvc.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Web.Http.Cors.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Newtonsoft.Json.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Net.Http.Formatting.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Web.Helpers.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Web.Http.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Web.Http.WebHost.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Web.Mvc.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Web.Optimization.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Web.Razor.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Web.WebPages.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Antlr3.Runtime.pdb
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\bin\System.Web.Http.Owin.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\obj\Debug\DTS.csprojResolveAssemblyReference.cache
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\obj\Debug\DTS.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\DTS\obj\Debug\DTS.pdb
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\DTS.dll.config
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\DTS.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\DTS.pdb
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Antlr3.Runtime.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\DATALayer.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\EntityFramework.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\EntityFramework.SqlServer.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Google.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Web.Infrastructure.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Newtonsoft.Json.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Ninject.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Ninject.Web.Common.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Ninject.Web.Mvc.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Owin.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\RepositryLayer.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\ServiceLayer.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Net.Http.Formatting.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Web.Cors.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Web.Helpers.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Web.Http.Cors.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Web.Http.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Web.Http.Owin.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Web.Http.WebHost.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Web.Mvc.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Web.Optimization.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Web.Razor.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Web.WebPages.Deployment.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Web.WebPages.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Web.WebPages.Razor.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\WebActivatorEx.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\WebGrease.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\DATALayer.pdb
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\RepositryLayer.pdb
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\ServiceLayer.pdb
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\EntityFramework.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\EntityFramework.SqlServer.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Ninject.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Ninject.Web.Common.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Ninject.Web.Mvc.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Web.Http.Cors.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Newtonsoft.Json.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Net.Http.Formatting.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Web.Helpers.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Web.Http.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Web.Http.WebHost.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Web.Mvc.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Web.Optimization.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Web.Razor.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Web.WebPages.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Web.WebPages.Deployment.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Web.WebPages.Razor.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Antlr3.Runtime.pdb
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Google.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\bin\System.Web.Http.Owin.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\obj\Debug\DTS.csprojResolveAssemblyReference.cache
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\obj\Debug\DTS.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\DTS\obj\Debug\DTS.pdb
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\DTS.dll.config
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\DTS.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\DTS.pdb
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Antlr3.Runtime.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\DATALayer.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\EntityFramework.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\EntityFramework.SqlServer.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Google.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.Web.Infrastructure.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Newtonsoft.Json.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Ninject.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Ninject.Web.Common.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Ninject.Web.Mvc.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Owin.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\RepositryLayer.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\ServiceLayer.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Net.Http.Formatting.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Web.Cors.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Web.Helpers.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Web.Http.Cors.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Web.Http.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Web.Http.Owin.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Web.Http.WebHost.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Web.Mvc.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Web.Optimization.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Web.Razor.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.Deployment.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.Razor.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\ViewModelLayer.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\WebActivatorEx.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\WebGrease.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\DATALayer.pdb
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\RepositryLayer.pdb
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\ServiceLayer.pdb
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\ViewModelLayer.pdb
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\EntityFramework.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\EntityFramework.SqlServer.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Ninject.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Ninject.Web.Common.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Ninject.Web.Mvc.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Web.Http.Cors.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Newtonsoft.Json.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Net.Http.Formatting.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Web.Helpers.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Web.Http.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Web.Http.WebHost.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Web.Mvc.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Web.Optimization.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Web.Razor.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.Deployment.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.Razor.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Antlr3.Runtime.pdb
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Google.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\bin\System.Web.Http.Owin.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\obj\Debug\DTS.csprojResolveAssemblyReference.cache
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\obj\Debug\DTS.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\DTS\obj\Debug\DTS.pdb
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\DTS.dll.config
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\DTS.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\DTS.pdb
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Antlr3.Runtime.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\DATALayer.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\EntityFramework.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\EntityFramework.SqlServer.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Google.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Web.Infrastructure.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Newtonsoft.Json.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Ninject.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Ninject.Web.Common.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Ninject.Web.Mvc.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Owin.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\RepositryLayer.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\ServiceLayer.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Net.Http.Formatting.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Cors.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Helpers.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.Cors.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.Owin.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.WebHost.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Mvc.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Optimization.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Razor.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.Deployment.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.Razor.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\ViewModelLayer.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\WebActivatorEx.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\WebGrease.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\DATALayer.pdb
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\RepositryLayer.pdb
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\ServiceLayer.pdb
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\ViewModelLayer.pdb
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\EntityFramework.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\EntityFramework.SqlServer.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Ninject.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Ninject.Web.Common.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Ninject.Web.Mvc.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.Cors.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Newtonsoft.Json.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Net.Http.Formatting.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Helpers.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.WebHost.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Mvc.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Optimization.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Razor.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.Deployment.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.Razor.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Antlr3.Runtime.pdb
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Google.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.Owin.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\obj\Debug\DTS.csprojResolveAssemblyReference.cache
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\obj\Debug\DTS.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\DTS\obj\Debug\DTS.pdb
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\DTS.dll.config
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\DTS.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\DTS.pdb
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Antlr3.Runtime.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\DATALayer.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\EntityFramework.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\EntityFramework.SqlServer.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Google.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Web.Infrastructure.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Newtonsoft.Json.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Ninject.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Ninject.Web.Common.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Ninject.Web.Mvc.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Owin.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\RepositryLayer.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\ServiceLayer.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Net.Http.Formatting.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Cors.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Helpers.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.Cors.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.Owin.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.WebHost.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Mvc.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Optimization.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Razor.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.Deployment.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.Razor.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\ViewModelLayer.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\WebActivatorEx.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\WebGrease.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\DATALayer.pdb
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\RepositryLayer.pdb
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\ServiceLayer.pdb
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\ViewModelLayer.pdb
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\EntityFramework.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\EntityFramework.SqlServer.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Ninject.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Ninject.Web.Common.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Ninject.Web.Mvc.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.Cors.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Newtonsoft.Json.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Net.Http.Formatting.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Helpers.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.WebHost.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Mvc.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Optimization.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Razor.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.Deployment.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.Razor.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Antlr3.Runtime.pdb
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Google.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.Owin.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\obj\Debug\DTS.csprojResolveAssemblyReference.cache
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\obj\Debug\DTS.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\obj\Debug\DTS.pdb
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\DTS.dll.config
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\DTS.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\DTS.pdb
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Antlr3.Runtime.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\DATALayer.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\EntityFramework.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\EntityFramework.SqlServer.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Google.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Web.Infrastructure.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Newtonsoft.Json.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Ninject.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Ninject.Web.Common.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Ninject.Web.Mvc.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Owin.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\RepositryLayer.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\ServiceLayer.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Net.Http.Formatting.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Cors.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Helpers.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.Cors.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.Owin.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.WebHost.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Mvc.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Optimization.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Razor.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.Deployment.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.Razor.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\ViewModelLayer.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\WebActivatorEx.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\WebGrease.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\DATALayer.pdb
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\RepositryLayer.pdb
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\ServiceLayer.pdb
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\ViewModelLayer.pdb
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\EntityFramework.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\EntityFramework.SqlServer.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Ninject.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Ninject.Web.Common.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Ninject.Web.Mvc.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.Cors.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Newtonsoft.Json.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Net.Http.Formatting.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Helpers.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.WebHost.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Mvc.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Optimization.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Razor.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.Deployment.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.Razor.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Antlr3.Runtime.pdb
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Google.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.Owin.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\obj\Debug\DTS.csprojResolveAssemblyReference.cache
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\obj\Debug\DTS.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\obj\Debug\DTS.pdb
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\DTS.dll.config
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\DTS.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\DTS.pdb
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Antlr3.Runtime.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\DATALayer.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\EntityFramework.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\EntityFramework.SqlServer.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Google.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Web.Infrastructure.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Newtonsoft.Json.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Ninject.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Ninject.Web.Common.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Ninject.Web.Mvc.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Owin.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\RepositryLayer.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\ServiceLayer.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Net.Http.Formatting.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Cors.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Helpers.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.Cors.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.Owin.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.WebHost.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Mvc.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Optimization.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Razor.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.Deployment.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.Razor.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\ViewModelLayer.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\WebActivatorEx.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\WebGrease.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\DATALayer.pdb
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\RepositryLayer.pdb
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\ServiceLayer.pdb
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\ViewModelLayer.pdb
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\EntityFramework.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\EntityFramework.SqlServer.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Ninject.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Ninject.Web.Common.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Ninject.Web.Mvc.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.Cors.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Newtonsoft.Json.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Net.Http.Formatting.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Helpers.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.WebHost.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Mvc.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Optimization.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Razor.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.Deployment.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.WebPages.Razor.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Antlr3.Runtime.pdb
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Google.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\bin\System.Web.Http.Owin.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\obj\Debug\DTS.csprojResolveAssemblyReference.cache
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\obj\Debug\DTS.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\DTS\obj\Debug\DTS.pdb
+F:\EMAHA\DTS\DTS\bin\DTS.dll.config
+F:\EMAHA\DTS\DTS\bin\DTS.dll
+F:\EMAHA\DTS\DTS\bin\DTS.pdb
+F:\EMAHA\DTS\DTS\bin\Antlr3.Runtime.dll
+F:\EMAHA\DTS\DTS\bin\DATALayer.dll
+F:\EMAHA\DTS\DTS\bin\EntityFramework.dll
+F:\EMAHA\DTS\DTS\bin\EntityFramework.SqlServer.dll
+F:\EMAHA\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.dll
+F:\EMAHA\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\EMAHA\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\EMAHA\DTS\DTS\bin\Microsoft.Owin.dll
+F:\EMAHA\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.dll
+F:\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.dll
+F:\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.dll
+F:\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.Google.dll
+F:\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.dll
+F:\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.dll
+F:\EMAHA\DTS\DTS\bin\Microsoft.Web.Infrastructure.dll
+F:\EMAHA\DTS\DTS\bin\Newtonsoft.Json.dll
+F:\EMAHA\DTS\DTS\bin\Ninject.dll
+F:\EMAHA\DTS\DTS\bin\Ninject.Web.Common.dll
+F:\EMAHA\DTS\DTS\bin\Ninject.Web.Mvc.dll
+F:\EMAHA\DTS\DTS\bin\Owin.dll
+F:\EMAHA\DTS\DTS\bin\RepositryLayer.dll
+F:\EMAHA\DTS\DTS\bin\ServiceLayer.dll
+F:\EMAHA\DTS\DTS\bin\System.Net.Http.Formatting.dll
+F:\EMAHA\DTS\DTS\bin\System.Web.Cors.dll
+F:\EMAHA\DTS\DTS\bin\System.Web.Helpers.dll
+F:\EMAHA\DTS\DTS\bin\System.Web.Http.Cors.dll
+F:\EMAHA\DTS\DTS\bin\System.Web.Http.dll
+F:\EMAHA\DTS\DTS\bin\System.Web.Http.Owin.dll
+F:\EMAHA\DTS\DTS\bin\System.Web.Http.WebHost.dll
+F:\EMAHA\DTS\DTS\bin\System.Web.Mvc.dll
+F:\EMAHA\DTS\DTS\bin\System.Web.Optimization.dll
+F:\EMAHA\DTS\DTS\bin\System.Web.Razor.dll
+F:\EMAHA\DTS\DTS\bin\System.Web.WebPages.Deployment.dll
+F:\EMAHA\DTS\DTS\bin\System.Web.WebPages.dll
+F:\EMAHA\DTS\DTS\bin\System.Web.WebPages.Razor.dll
+F:\EMAHA\DTS\DTS\bin\ViewModelLayer.dll
+F:\EMAHA\DTS\DTS\bin\WebActivatorEx.dll
+F:\EMAHA\DTS\DTS\bin\WebGrease.dll
+F:\EMAHA\DTS\DTS\bin\DATALayer.pdb
+F:\EMAHA\DTS\DTS\bin\RepositryLayer.pdb
+F:\EMAHA\DTS\DTS\bin\ServiceLayer.pdb
+F:\EMAHA\DTS\DTS\bin\ViewModelLayer.pdb
+F:\EMAHA\DTS\DTS\bin\EntityFramework.xml
+F:\EMAHA\DTS\DTS\bin\EntityFramework.SqlServer.xml
+F:\EMAHA\DTS\DTS\bin\Ninject.xml
+F:\EMAHA\DTS\DTS\bin\Ninject.Web.Common.xml
+F:\EMAHA\DTS\DTS\bin\Ninject.Web.Mvc.xml
+F:\EMAHA\DTS\DTS\bin\System.Web.Http.Cors.xml
+F:\EMAHA\DTS\DTS\bin\Newtonsoft.Json.xml
+F:\EMAHA\DTS\DTS\bin\System.Net.Http.Formatting.xml
+F:\EMAHA\DTS\DTS\bin\System.Web.Helpers.xml
+F:\EMAHA\DTS\DTS\bin\System.Web.Http.xml
+F:\EMAHA\DTS\DTS\bin\System.Web.Http.WebHost.xml
+F:\EMAHA\DTS\DTS\bin\System.Web.Mvc.xml
+F:\EMAHA\DTS\DTS\bin\System.Web.Optimization.xml
+F:\EMAHA\DTS\DTS\bin\System.Web.Razor.xml
+F:\EMAHA\DTS\DTS\bin\System.Web.WebPages.xml
+F:\EMAHA\DTS\DTS\bin\System.Web.WebPages.Deployment.xml
+F:\EMAHA\DTS\DTS\bin\System.Web.WebPages.Razor.xml
+F:\EMAHA\DTS\DTS\bin\Antlr3.Runtime.pdb
+F:\EMAHA\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.xml
+F:\EMAHA\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\EMAHA\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\EMAHA\DTS\DTS\bin\Microsoft.Owin.xml
+F:\EMAHA\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.xml
+F:\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.xml
+F:\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.xml
+F:\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.xml
+F:\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.Google.xml
+F:\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.xml
+F:\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\EMAHA\DTS\DTS\bin\System.Web.Http.Owin.xml
+F:\EMAHA\DTS\DTS\obj\Debug\DTS.csprojResolveAssemblyReference.cache
+F:\EMAHA\DTS\DTS\obj\Debug\DTS.dll
+F:\EMAHA\DTS\DTS\obj\Debug\DTS.pdb
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\DTS.dll.config
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\DTS.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\DTS.pdb
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Antlr3.Runtime.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\DATALayer.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\EntityFramework.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\EntityFramework.SqlServer.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.Owin.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Newtonsoft.Json.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Ninject.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Ninject.Web.Common.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Ninject.Web.Mvc.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Owin.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\RepositryLayer.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\ServiceLayer.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Net.Http.Formatting.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Web.Cors.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Web.Helpers.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Web.Http.Cors.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Web.Http.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Web.Http.Owin.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Web.Http.WebHost.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Web.Mvc.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Web.Optimization.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Web.Razor.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Web.WebPages.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\ViewModelLayer.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\WebActivatorEx.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\WebGrease.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\DATALayer.pdb
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\RepositryLayer.pdb
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\ServiceLayer.pdb
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\ViewModelLayer.pdb
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\EntityFramework.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\EntityFramework.SqlServer.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Ninject.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Ninject.Web.Common.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Ninject.Web.Mvc.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Web.Http.Cors.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Newtonsoft.Json.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Net.Http.Formatting.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Web.Helpers.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Web.Http.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Web.Http.WebHost.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Web.Mvc.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Web.Optimization.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Web.Razor.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Web.WebPages.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Antlr3.Runtime.pdb
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.Owin.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\bin\System.Web.Http.Owin.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\obj\Debug\DTS.csprojResolveAssemblyReference.cache
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\obj\Debug\DTS.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\DTS\obj\Debug\DTS.pdb
+F:\DTS\DTS\bin\DTS.dll.config
+F:\DTS\DTS\bin\DTS.dll
+F:\DTS\DTS\bin\DTS.pdb
+F:\DTS\DTS\bin\Antlr3.Runtime.dll
+F:\DTS\DTS\bin\DATALayer.dll
+F:\DTS\DTS\bin\EntityFramework.dll
+F:\DTS\DTS\bin\EntityFramework.SqlServer.dll
+F:\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.dll
+F:\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\DTS\DTS\bin\Microsoft.Owin.dll
+F:\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.dll
+F:\DTS\DTS\bin\Microsoft.Owin.Security.dll
+F:\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.dll
+F:\DTS\DTS\bin\Microsoft.Owin.Security.Google.dll
+F:\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.dll
+F:\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.dll
+F:\DTS\DTS\bin\Microsoft.Web.Infrastructure.dll
+F:\DTS\DTS\bin\Newtonsoft.Json.dll
+F:\DTS\DTS\bin\Ninject.dll
+F:\DTS\DTS\bin\Ninject.Web.Common.dll
+F:\DTS\DTS\bin\Ninject.Web.Mvc.dll
+F:\DTS\DTS\bin\Owin.dll
+F:\DTS\DTS\bin\RepositryLayer.dll
+F:\DTS\DTS\bin\ServiceLayer.dll
+F:\DTS\DTS\bin\System.Net.Http.Formatting.dll
+F:\DTS\DTS\bin\System.Web.Cors.dll
+F:\DTS\DTS\bin\System.Web.Helpers.dll
+F:\DTS\DTS\bin\System.Web.Http.Cors.dll
+F:\DTS\DTS\bin\System.Web.Http.dll
+F:\DTS\DTS\bin\System.Web.Http.Owin.dll
+F:\DTS\DTS\bin\System.Web.Http.WebHost.dll
+F:\DTS\DTS\bin\System.Web.Mvc.dll
+F:\DTS\DTS\bin\System.Web.Optimization.dll
+F:\DTS\DTS\bin\System.Web.Razor.dll
+F:\DTS\DTS\bin\System.Web.WebPages.Deployment.dll
+F:\DTS\DTS\bin\System.Web.WebPages.dll
+F:\DTS\DTS\bin\System.Web.WebPages.Razor.dll
+F:\DTS\DTS\bin\ViewModelLayer.dll
+F:\DTS\DTS\bin\WebActivatorEx.dll
+F:\DTS\DTS\bin\WebGrease.dll
+F:\DTS\DTS\bin\DATALayer.pdb
+F:\DTS\DTS\bin\RepositryLayer.pdb
+F:\DTS\DTS\bin\ServiceLayer.pdb
+F:\DTS\DTS\bin\ViewModelLayer.pdb
+F:\DTS\DTS\bin\EntityFramework.xml
+F:\DTS\DTS\bin\EntityFramework.SqlServer.xml
+F:\DTS\DTS\bin\Ninject.xml
+F:\DTS\DTS\bin\Ninject.Web.Common.xml
+F:\DTS\DTS\bin\Ninject.Web.Mvc.xml
+F:\DTS\DTS\bin\System.Web.Http.Cors.xml
+F:\DTS\DTS\bin\Newtonsoft.Json.xml
+F:\DTS\DTS\bin\System.Net.Http.Formatting.xml
+F:\DTS\DTS\bin\System.Web.Helpers.xml
+F:\DTS\DTS\bin\System.Web.Http.xml
+F:\DTS\DTS\bin\System.Web.Http.WebHost.xml
+F:\DTS\DTS\bin\System.Web.Mvc.xml
+F:\DTS\DTS\bin\System.Web.Optimization.xml
+F:\DTS\DTS\bin\System.Web.Razor.xml
+F:\DTS\DTS\bin\System.Web.WebPages.xml
+F:\DTS\DTS\bin\System.Web.WebPages.Deployment.xml
+F:\DTS\DTS\bin\System.Web.WebPages.Razor.xml
+F:\DTS\DTS\bin\Antlr3.Runtime.pdb
+F:\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.xml
+F:\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\DTS\DTS\bin\Microsoft.Owin.xml
+F:\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\DTS\DTS\bin\Microsoft.Owin.Security.xml
+F:\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.xml
+F:\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.xml
+F:\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.xml
+F:\DTS\DTS\bin\Microsoft.Owin.Security.Google.xml
+F:\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.xml
+F:\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\DTS\DTS\bin\System.Web.Http.Owin.xml
+F:\DTS\DTS\obj\Debug\DTS.csprojResolveAssemblyReference.cache
+F:\DTS\DTS\obj\Debug\DTS.dll
+F:\DTS\DTS\obj\Debug\DTS.pdb

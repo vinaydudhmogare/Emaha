@@ -1,0 +1,76 @@
+﻿
+
+<div>
+
+
+    <div class="container-fluid fn" >
+             
+                <div class="container pull-left">
+                    <div class="row">
+                        <!--<div class="col-sm-4 col-xs-4">
+                                <div class="input-group stylish-input-group">
+                                    <input type="text" ng-model="pagingInfo.search" id=" search" placeholder="Search Project..." class="pull-left form-control col-sm-4 col-xs-4">
+                                    <span class="input-group-addon col-sm-4 col-xs-4">
+                                        <button type="submit">
+                                            <span class="glyphicon glyphicon-search" ng-click="search()"></span>
+                                        </button>
+                                    </span>
+                                </div>
+                              
+                        </div>-->
+                        <div class="col-sm-4">
+                            <div class="input-group stylish-input-group">
+
+                                <input type="text" ng-model="pagingInfo.search" placeholder="Search Project..." class="pull-left form-control">
+                                <span class="input-group-addon">
+                                    <button type="submit">
+                                        <span class="glyphicon glyphicon-search" ng-click="search()"></span>
+                                    </button>
+                                </span>
+                            </div>
+
+                        </div>
+                        <div >
+                            <div class="input-group stylish-input-group">
+                                <button type="button"  class="add1 btn btn-info" ng-click="openWindow()">Add Project!</button>
+                                </div>
+                            </div>
+                    </div>
+                </div>
+             
+
+                <table class="table table-bordered table-hover table-responsive table-striped table-responsive">
+                    <thead>
+                        <tr>
+                            <th id="th"><a id="a" ng-click="sort('ProjectID')">  Project Id</a></th>
+                            <th id="th"><a id="a" ng-click="sort('Title')">Title</a></th>
+                            <th id="th"><a id="a" ng-click="sort('SmallDescription')">Small Description</a></th>
+                            <th id="th"><a id="a" ng-click="sort('LongDescription')">Long Description</a></th>
+                            <th id="th"><a id="a" ng-click="sort('StartDate')">Start Date </a></th>
+                            <th id="th"><a id="a" ng-click="sort('EndDate')">End Date</a> </th>
+                            <th id="th">Time Zone</th>
+                            <th id="th">Parent Project</th>
+                            <th id="th"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-repeat="project in Projects">
+                            <td ng-bind="project.ProjectID"></td>
+                            <td ng-bind="project.Title"></td>
+                            <td ng-bind="project.SmallDescription"></td>
+                            <td ng-bind="project.LongDescription"></td>
+                            <td ng-bind="project.StartDate"></td>
+                            <td ng-bind="project.EndDate"></td>
+                            <td ng-bind="project.TimeZone"></td>
+                            <td ng-bind="project.ParentProjectName"></td>
+                            <td><button ui-sref="DefectEntry({id:project.ID})" class="btn btn-block" id="colour"><div id="mainheading">Add Defects</div></button></td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <ul uib-pagination total-items="pagingInfo.totalItems" ng-model="pagingInfo.page" items-per-page='pagingInfo.itemsPerPage' ng-change="selectPage(pagingInfo.page)"></ul>
+
+
+            </div>
+            </div>
+     

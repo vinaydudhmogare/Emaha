@@ -1,0 +1,155 @@
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\ServiceLayer\bin\Debug\DATALayer.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\ServiceLayer\bin\Debug\RepositryLayer.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\ServiceLayer\bin\Debug\DATALayer.pdb
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\ServiceLayer\bin\Debug\RepositryLayer.pdb
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\ServiceLayer\obj\Debug\ServiceLayer.pdb
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\ServiceLayer\bin\Debug\Ninject.dll
+C:\Users\Piyush\Documents\Visual Studio 2013\Projects\DTS\ServiceLayer\bin\Debug\Ninject.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\ServiceLayer\bin\Debug\DATALayer.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\ServiceLayer\bin\Debug\Ninject.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\ServiceLayer\bin\Debug\RepositryLayer.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\ServiceLayer\bin\Debug\DATALayer.pdb
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\ServiceLayer\bin\Debug\RepositryLayer.pdb
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\ServiceLayer\bin\Debug\Ninject.xml
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\Day users\Piyush\Official\Issue Tracking System (Development)\DTS\DTS\ServiceLayer\bin\Debug\EntityFramework.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\ServiceLayer\bin\Debug\DATALayer.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\ServiceLayer\bin\Debug\Ninject.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\ServiceLayer\bin\Debug\RepositryLayer.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\ServiceLayer\bin\Debug\EntityFramework.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\ServiceLayer\bin\Debug\DATALayer.pdb
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\ServiceLayer\bin\Debug\RepositryLayer.pdb
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\ServiceLayer\bin\Debug\Ninject.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\ServiceLayer\bin\Debug\EntityFramework.xml
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\Joshi\Desktop\1 dec\DTS (1)\DTS\DTS\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\ServiceLayer\bin\Debug\DATALayer.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\ServiceLayer\bin\Debug\Ninject.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\ServiceLayer\bin\Debug\RepositryLayer.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\ServiceLayer\bin\Debug\DATALayer.pdb
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\ServiceLayer\bin\Debug\RepositryLayer.pdb
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\ServiceLayer\bin\Debug\Ninject.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\jjjdts\jjjdts\DTS (1)\DTS\DTS\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\ServiceLayer\bin\Debug\DATALayer.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\ServiceLayer\bin\Debug\Ninject.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\ServiceLayer\bin\Debug\RepositryLayer.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\ServiceLayer\bin\Debug\ViewModelLayer.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\ServiceLayer\bin\Debug\DATALayer.pdb
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\ServiceLayer\bin\Debug\RepositryLayer.pdb
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\ServiceLayer\bin\Debug\ViewModelLayer.pdb
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\ServiceLayer\bin\Debug\Ninject.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\Day users\Piyush\Official\DTS SVN\DTS\DTS\DTS\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\Day User\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\Day User\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\DATALayer.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\Ninject.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\RepositryLayer.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\ViewModelLayer.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\DATALayer.pdb
+D:\Day User\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\RepositryLayer.pdb
+D:\Day User\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\ViewModelLayer.pdb
+D:\Day User\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\Ninject.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\Day User\DTS_Main\DTS\DTS\DTS\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\Day User\DTS_Main\DTS\DTS\DTS\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\Day User\DTS_Main\DTS\DTS\DTS\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\DATALayer.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\Ninject.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\RepositryLayer.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\ViewModelLayer.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\DATALayer.pdb
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\RepositryLayer.pdb
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\ViewModelLayer.pdb
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\Ninject.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\DATALayer.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\Ninject.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\RepositryLayer.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\ViewModelLayer.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\DATALayer.pdb
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\RepositryLayer.pdb
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\ViewModelLayer.pdb
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\Ninject.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\Day users\Piyush\Official\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\obj\Debug\ServiceLayer.pdb
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\ServiceLayer.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\ServiceLayer.pdb
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\DATALayer.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\Ninject.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\RepositryLayer.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\ViewModelLayer.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\EntityFramework.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\DATALayer.pdb
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\RepositryLayer.pdb
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\ViewModelLayer.pdb
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\Ninject.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\bin\Debug\EntityFramework.xml
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\obj\Debug\ServiceLayer.dll
+E:\DTS_Main\DTS_Main\DTS_Main\DTS\DTS\DTS\ServiceLayer\obj\Debug\ServiceLayer.pdb
+F:\EMAHA\DTS\ServiceLayer\bin\Debug\ServiceLayer.dll
+F:\EMAHA\DTS\ServiceLayer\bin\Debug\ServiceLayer.pdb
+F:\EMAHA\DTS\ServiceLayer\bin\Debug\DATALayer.dll
+F:\EMAHA\DTS\ServiceLayer\bin\Debug\Ninject.dll
+F:\EMAHA\DTS\ServiceLayer\bin\Debug\RepositryLayer.dll
+F:\EMAHA\DTS\ServiceLayer\bin\Debug\ViewModelLayer.dll
+F:\EMAHA\DTS\ServiceLayer\bin\Debug\EntityFramework.dll
+F:\EMAHA\DTS\ServiceLayer\bin\Debug\DATALayer.pdb
+F:\EMAHA\DTS\ServiceLayer\bin\Debug\RepositryLayer.pdb
+F:\EMAHA\DTS\ServiceLayer\bin\Debug\ViewModelLayer.pdb
+F:\EMAHA\DTS\ServiceLayer\bin\Debug\Ninject.xml
+F:\EMAHA\DTS\ServiceLayer\bin\Debug\EntityFramework.xml
+F:\EMAHA\DTS\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+F:\EMAHA\DTS\ServiceLayer\obj\Debug\ServiceLayer.dll
+F:\EMAHA\DTS\ServiceLayer\obj\Debug\ServiceLayer.pdb
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\ServiceLayer\bin\Debug\DATALayer.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\ServiceLayer\bin\Debug\Ninject.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\ServiceLayer\bin\Debug\RepositryLayer.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\ServiceLayer\bin\Debug\ViewModelLayer.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\ServiceLayer\bin\Debug\EntityFramework.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\ServiceLayer\bin\Debug\DATALayer.pdb
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\ServiceLayer\bin\Debug\RepositryLayer.pdb
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\ServiceLayer\bin\Debug\ViewModelLayer.pdb
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\ServiceLayer\bin\Debug\Ninject.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\ServiceLayer\bin\Debug\EntityFramework.xml
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\ServiceLayer\obj\Debug\ServiceLayer.pdb
