@@ -52,7 +52,7 @@
              .state('job', {
                 url: '/job',
                 templateUrl: 'SPA/partials/Home/Job.html',
-                controller: 'signupController',
+                controller: 'JobController',
                
             })
 

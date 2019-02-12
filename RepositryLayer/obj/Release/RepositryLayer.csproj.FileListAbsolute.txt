@@ -1,0 +1,14 @@
+F:\DTS\RepositryLayer\bin\Release\RepositryLayer.dll.config
+F:\DTS\RepositryLayer\bin\Release\RepositryLayer.dll
+F:\DTS\RepositryLayer\bin\Release\RepositryLayer.pdb
+F:\DTS\RepositryLayer\bin\Release\DATALayer.dll
+F:\DTS\RepositryLayer\bin\Release\EntityFramework.dll
+F:\DTS\RepositryLayer\bin\Release\EntityFramework.SqlServer.dll
+F:\DTS\RepositryLayer\bin\Release\Ninject.dll
+F:\DTS\RepositryLayer\bin\Release\DATALayer.pdb
+F:\DTS\RepositryLayer\bin\Release\EntityFramework.xml
+F:\DTS\RepositryLayer\bin\Release\EntityFramework.SqlServer.xml
+F:\DTS\RepositryLayer\bin\Release\Ninject.xml
+F:\DTS\RepositryLayer\obj\Release\RepositryLayer.csprojResolveAssemblyReference.cache
+F:\DTS\RepositryLayer\obj\Release\RepositryLayer.dll
+F:\DTS\RepositryLayer\obj\Release\RepositryLayer.pdb

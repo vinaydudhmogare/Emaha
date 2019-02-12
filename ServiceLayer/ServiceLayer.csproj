@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Interfaces\IDefectService.cs" />
+    <Compile Include="Interfaces\IJobService.cs" />
     <Compile Include="Interfaces\IPriorityService.cs" />
     <Compile Include="Interfaces\IProjectService.cs" />
     <Compile Include="Interfaces\ISaleWithUsService.cs" />

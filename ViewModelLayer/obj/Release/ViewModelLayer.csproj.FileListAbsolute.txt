@@ -1,0 +1,4 @@
+F:\DTS\ViewModelLayer\bin\Release\ViewModelLayer.dll
+F:\DTS\ViewModelLayer\bin\Release\ViewModelLayer.pdb
+F:\DTS\ViewModelLayer\obj\Release\ViewModelLayer.dll
+F:\DTS\ViewModelLayer\obj\Release\ViewModelLayer.pdb

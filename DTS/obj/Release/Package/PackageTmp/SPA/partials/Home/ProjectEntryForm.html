@@ -1,0 +1,129 @@
+﻿
+
+<form name="myForm" class="form-horizontal col-md-12 col-lg-12 col-sm-12 col-xs-12">
+
+
+    <div class="container">
+
+
+       
+            <div class="panel-heading" id="colour"><h4 id="heading">Add Project Here:</h4></div>
+           
+                <br/>
+                <div class="form-group row">
+                    <label class="control-label col-md-4" style="text-align:left">Enter Project ID(optional):</label>
+                    <div class="col-lg-8">
+                        <input type="text" class=" form-control input-md" name="ProjectID" ng-model="Project.ProjectID" placeholder="Project ID"><br />
+                    </div>
+                </div>
+              
+                <div class="form-group row" ng-class="{ 'has-error' : myForm.Title.$invalid && !myForm.Title.$pristine }">
+                    <label class="control-label col-md-4" style="text-align:left">Title:</label>
+                    <div class="col-lg-8">
+                        <input type="text" ng-pattern="/^(\D)+$/" required class=" form-control input-md" name="Title" ng-model="Project.Title" placeholder="Title"><br />
+                        <p ng-show="myForm.Title.$invalid && !myForm.Title.$pristine" class="help-block">Title is required Text only, please.</p>
+
+                    </div>
+                </div>
+
+
+                <div class="form-group row" ng-class="{ 'has-error' : myForm.SmallDescription.$invalid && !myForm.SmallDescription.$pristine }">
+                    <label class="control-label col-md-4" style="text-align:left">Small Description:</label>
+                    <div class="col-lg-8">
+                        <input type="text" ng-minlength="3" ng-maxlength="20" ng-pattern="/^(\D)+$/" class="form-control input-md" name="SmallDescription" ng-model="Project.SmallDescription" placeholder="Small Description" required><br />
+                        <p ng-show="myForm.SmallDescription.$invalid && !myForm.SmallDescription.$pristine" class="help-block">Small Description is required Text only, please.</p>
+                        <p ng-show="myForm.SmallDescription.$error.minlength" class="help-block">SmallDescription is too short minimum length is 3.</p>
+                        <p ng-show="myForm.SmallDescription.$error.maxlength" class="help-block">SmallDescription is too long maximum length is 20.</p>
+
+                    </div>
+                </div>
+
+                <div class="form-group row" ng-class="{ 'has-error' : myForm.LongDescription.$invalid && !myForm.LongDescription.$pristine }">
+                    <label class="control-label col-md-4" style="text-align:left">Large Description:</label>
+                    <div class="col-lg-8">
+                        <textarea ng-minlength="50" ng-maxlength="500" name="LongDescription" rows="10" cols="12" class="form-control input-md" placeholder="Large Description" ng-model="Project.LongDescription" required></textarea>
+                        <p ng-show="myForm.LongDescription.$invalid && !myForm.LongDescription.$pristine" class="help-block">Long Description is required </p>
+                        <p ng-show="myForm.LongDescription.$error.minlength" class="help-block">Long Description is too short minimum length is 50.</p>
+                        <p ng-show="myForm.LongDescription.$error.maxlength" class="help-block">Long Description is too long maximum length is 500.</p>
+
+                    </div>
+                </div>
+
+                <div class="form-group row" ng-class="{ 'has-error' : myForm.StartDate.$invalid && !myForm.StartDate.$pristine }">
+                    <label class="control-label col-md-4" style="text-align:left">Publish Date</label>
+                    <div class="col-lg-4">
+                        <div class="form-group" ng-class="{ 'has-error' : myForm.StartDate.$invalid && !myForm.StartDate.$pristine }">
+                            <div class='input-group date' data-provide="datepicker">
+                                <input type='text' class="form-control" name="StartDate" style="margin-left:15px;" placeholder="Start Date" ng-model="Project.StartDate" required />
+                                <span class="input-group-addon">
+                                    <span class="glyphicon glyphicon-calendar"></span>
+                                </span>
+
+                            </div>
+                            <p ng-show="myForm.StartDate.$invalid && !myForm.StartDate.$pristine" class="help-block">Start Date is required</p>
+
+                        </div>
+                        <!--<input class="datepicker" data-date-format="mm/dd/yyyy" ng-model="Project.EndDate"></><br />-->
+                    </div>
+
+                    <div class="col-lg-4 pull-right" >
+                        <div class="form-group" ng-class="{ 'has-error' : myForm.ExpireyDate.$invalid && !myForm.ExpireyDate.$pristine }">
+                            <div class='input-group date' data-provide="datepicker">
+                                <input type='text' name="ExpireyDate" placeholder=" Expirey Date" class="form-control" ng-model="Project.EndDate" />
+                                <span class="input-group-addon">
+                                    <span class="glyphicon glyphicon-calendar"></span>
+                                </span>
+                            </div>
+                            <p ng-show="myForm.ExpireyDate.$invalid && !myForm.ExpireyDate.$pristine" class="help-block">Expirey Date is required</p>
+
+                        </div>
+                        <!--<input class="datepicker" data-date-format="mm/dd/yyyy" ng-model="Project.EndDate"></><br />-->
+                    </div>
+                </div>
+
+
+                <div class="form-group row">
+                    <label class="control-label col-md-4" style="text-align:left">Parent Project:</label>
+                    <div class="col-lg-8">
+                        <select ng-model="Project.ParentProjectID" ng-options="c.ID as c.Title for c in ParentProjects" class="form-control"></select>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label class="control-label col-md-4" style="text-align:left">Time Zone:</label>
+                    <div class="col-lg-8">
+                        <div ng-init="translations.placeholder = 'Select your timezone '">
+                            <timezone-selector ng-model="Project.TimeZone"
+                                               translations="translations"
+                                               display-utc="true"
+                                               sort-by="offset"
+                                               show-local="true"
+                                               primary-choices="UTC GB WET GMT Asia/Macau"
+                                               name="timezone"
+                                               required>
+                            </timezone-selector>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    <div class="control-label col-md-4"></div>
+                    <div class="col-lg-8">
+                        <button type="button" ng-disabled="myForm.$invalid" ng-click="SaveProject(Project)" class="btn btn-primary btn-lg btn-outline btn-rounded">Save</button>
+                        <button type="reset" onclick="CloseAndRefresh()" class="btn btn-primary btn-lg btn-outline btn-rounded">Cancel</button>
+
+                    </div>
+                </div>
+
+            </div>
+       
+
+</form>
+<!--</md-content>
+</md-card>-->
+<script language="JavaScript" type="text/javascript">
+    function CloseAndRefresh() {
+        opener.location.reload(true);
+        self.close();
+    }
+</script>

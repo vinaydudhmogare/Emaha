@@ -488,66 +488,66 @@
 
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 ">
                 <h2> Kindly Fill The Below Details</h2><br>
-                <form name="RegForm" action="/action_page.php" onsubmit="return app()" method="post">
+                <form name="Job" ng-submit="saveDataJob(Job)" novalidate>
 
 
-                    <div class="form-group">
+                    <div class="form-group" ng-class="{ 'has-error' : Job.Name.$invalid && !Job.Name.$pristine }">
                         <label for="name">Your Name*:</label>
-                        <input type="text" class="form-control" id="name" name="Name" placeholder="Enter your Full Name..">
+                        <input type="text" class="form-control" id="name" name="Name" placeholder="Enter your Full Name.." ng-model="Job.Name" required>
                     </div>
 
 
-                    <div class="form-group">
+                    <div class="form-group" ng-class="{ 'has-error' : Job.Email.$invalid && !Job.Email.$pristine }">
                         <label for="Email">Your Email* :</label>
-                        <input type="text" class="form-control" id="Email" name="Application Email" placeholder="Your Email..">
+                        <input type="text" class="form-control" id="Email" name="Application Email" placeholder="Your Email.." ng-model="Job.Name" required>
                     </div>
-                    <div class="form-group">
+                    <div class="form-group" ng-class="{ 'has-error' : Job.Mobile.$invalid && !Job.Mobile.$pristine }">
                         <label for="Number">Your Mobile Number* :</label>
                         <br>
-                        <input type="Number" class="form-control" id="Number" name="Number " placeholder=" +91 ">
+                        <input type="text" class="form-control"  placeholder="91"  ng-model="Job.Mobile" required>
 
                     </div>
-                    <div class="form-group">
+                    <div class="form-group" ng-class="{ 'has-error' : Job.Qualification.$invalid && !Job.Qualification.$pristine }">
                         <label for="Qualification">Qualification* :</label>
-                        <input type="text" class="form-control" id="Qualification" name="Qualification " placeholder="Qualification..">
+                        <input type="text" class="form-control" id="Qualification" name="Qualification " placeholder="Qualification.."  ng-model="Job.Qualification" required>
                     </div>
-                    <div class="form-group">
+                    <div class="form-group" ng-class="{ 'has-error' : Job.Experience.$invalid && !Job.Experience.$pristine }">
                         <label for="ref">Experience* : </label>
-                        <input type="text" class="form-control" id="Experience" name="Reference" placeholder="Experience..">
+                        <input type="text" class="form-control" id="Experience" name="Reference" placeholder="Experience.."  ng-model="Job.Experience" required>
                     </div>
-                    <div class="form-group">
+                    <div class="form-group" ng-class="{ 'has-error' : Job.Company_Name.$invalid && !Job.Company_Name.$pristine }">
                         <label for="Company Name">Company Name* :</label>
-                        <input type="text" class="form-control" rows="5" id="Company Name" name="Design" placeholder="Company Name">
+                        <input type="text" class="form-control" rows="5" id="Company Name" name="Design" placeholder="Company Name" ng-model="Job.Company_Name" required>
                     </div>
-                    <div class="form-group">
+                    <div class="form-group" ng-class="{ 'has-error' : Job.Current_Salary.$invalid && !Job.Current_Salary.$pristine }">
                         <label for="Current Salary">Current Salary* :</label>
-                        <input type="text" class="form-control" id="Current Salary" name="Current Salary" placeholder="Current Salary..">
+                        <input type="text" class="form-control"  placeholder="Current Salary.." ng-model="Job.Current_Salary" required>
                     </div>
-                    <div class="form-group">
+                    <div class="form-group" ng-class="{ 'has-error' : Job.Area_of_Interest.$invalid && !Job.Area_of_Interest.$pristine }">
                         <h3>Select Area of Interest</h3>
-                        <input type="radio" name="intrest1" value="mvc" class="check">MVC Developer &nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="radio" name="intrest1" value="mvc" class="check" ng-model="Job.Area_of_Interest" required>MVC Developer &nbsp;&nbsp;&nbsp;&nbsp;
 
-                        <input type="radio" name="intrest1" value="android" class="check">Android Developer&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="radio" name="intrest1" value="android" class="check" ng-model="Job.Area_of_Interest" required >Android Developer&nbsp;&nbsp;&nbsp;&nbsp;
 
-                        <input type="radio" name="intrest1" value="ios" class="check">IOS Developer<br><br>
+                        <input type="radio" name="intrest1" value="ios" class="check" ng-model="Job.Area_of_Interest" required >IOS Developer<br><br>
 
-                        <input type="radio" name="intrest1" value="stack" class="check">FullStack Developer&nbsp;&nbsp;&nbsp;
+                        <input type="radio" name="intrest1" value="stack" class="check" ng-model="Job.Area_of_Interest" required >FullStack Developer&nbsp;&nbsp;&nbsp;
 
-                        <input type="radio" name="intrest1" value="sales" class="check">Sales Execute &nbsp;&nbsp;&nbsp;
+                        <input type="radio" name="intrest1" value="sales" class="check" ng-model="Job.Area_of_Interest" required >Sales Execute &nbsp;&nbsp;&nbsp;
+                         
+                        <input type="radio" name="intrest1" value="tele" class="check" ng-model="Job.Area_of_Interest" required>Tele Caller<br><br>
 
-                        <input type="radio" name="intrest1" value="tele" class="check">Tele Caller<br><br>
+                        <input type="radio" name="intrest1" value="pro" class="check" ng-model="Job.Area_of_Interest" required> Professor&nbsp;&nbsp;&nbsp;
 
-                        <input type="radio" name="intrest1" value="pro" class="check"> Professor&nbsp;&nbsp;&nbsp;
+                        <input type="radio" name="intrest1" value="intern" class="check" ng-model="Job.Area_of_Interest" required> Internship&nbsp;&nbsp;&nbsp;
 
-                        <input type="radio" name="intrest1" value="intern" class="check"> Internship&nbsp;&nbsp;&nbsp;
-
-                        <input type="radio" name="intrest1" value="teacher" class="check">Teacher
+                        <input type="radio" name="intrest1" value="teacher" class="check" ng-model="Job.Area_of_Interest" required>Teacher
 
                     </div>
 
 
                     <center>
-                        <button class="btn" type="button">
+                        <button  type="submit" class="btn btn-primary" ng-disabled="Job.$invalid">
                             Send
                         </button>
                     </center>

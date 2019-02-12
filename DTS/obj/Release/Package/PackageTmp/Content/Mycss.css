@@ -1,0 +1,39 @@
+﻿.head {
+   
+    background: #0c0c0c;
+}
+
+
+ #loginbtn {
+    background: #2C3E50;
+}
+
+.navbar  {
+    background-color: #2C3E50;
+}
+
+.navbar, .navbar-default {
+    background-color:#2C3E50;
+}
+
+#colour
+{
+background-color:#2C3E50;
+}
+
+#heading {
+	font-family: Verdana, Geneva, sans-serif;
+	color: white;
+	font-size:20px;
+}
+
+
+
+#col{
+    color:black;
+}
+
+#mainheading{
+    color: white;
+    
+}

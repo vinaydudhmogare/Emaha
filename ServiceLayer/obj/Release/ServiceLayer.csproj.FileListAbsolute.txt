@@ -1,0 +1,15 @@
+F:\DTS\ServiceLayer\bin\Release\ServiceLayer.dll
+F:\DTS\ServiceLayer\bin\Release\ServiceLayer.pdb
+F:\DTS\ServiceLayer\bin\Release\DATALayer.dll
+F:\DTS\ServiceLayer\bin\Release\Ninject.dll
+F:\DTS\ServiceLayer\bin\Release\RepositryLayer.dll
+F:\DTS\ServiceLayer\bin\Release\ViewModelLayer.dll
+F:\DTS\ServiceLayer\bin\Release\EntityFramework.dll
+F:\DTS\ServiceLayer\bin\Release\DATALayer.pdb
+F:\DTS\ServiceLayer\bin\Release\RepositryLayer.pdb
+F:\DTS\ServiceLayer\bin\Release\ViewModelLayer.pdb
+F:\DTS\ServiceLayer\bin\Release\Ninject.xml
+F:\DTS\ServiceLayer\bin\Release\EntityFramework.xml
+F:\DTS\ServiceLayer\obj\Release\ServiceLayer.csprojResolveAssemblyReference.cache
+F:\DTS\ServiceLayer\obj\Release\ServiceLayer.dll
+F:\DTS\ServiceLayer\obj\Release\ServiceLayer.pdb

@@ -66,6 +66,9 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>EmahaSchoolEntitity.edmx</DependentUpon>
     </Compile>
+    <Compile Include="Domain\Job.cs">
+      <DependentUpon>EmahaSchoolEntitity.tt</DependentUpon>
+    </Compile>
     <Compile Include="Domain\Priority.cs" />
     <Compile Include="Domain\Project.cs" />
     <Compile Include="Domain\SalesUser.cs">

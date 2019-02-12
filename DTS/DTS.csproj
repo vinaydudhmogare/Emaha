@@ -210,6 +210,7 @@
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\DefectController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\JobController.cs" />
     <Compile Include="Controllers\PriorityController.cs" />
     <Compile Include="Controllers\ProjectsController.cs" />
     <Compile Include="Controllers\SaleWithUsController.cs" />
@@ -252,10 +253,6 @@
     <Content Include="Content\bootstrap-datepicker3.standalone.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
-    <Content Include="Content\Customcss\form.css" />
-    <Content Include="Content\Customcss\freelancer.css" />
-    <Content Include="Content\Customcss\freelancer.min.css" />
-    <Content Include="Content\Customcss\logincss.css" />
     <Content Include="Content\easy-responsive-tabss.css" />
     <Content Include="Content\font-awesome.css" />
     <Content Include="Content\Images\1.jpg" />
@@ -910,6 +907,7 @@
     <Content Include="Content\bootstrap-datepicker.css.map" />
     <Content Include="Content\Images\emahaschool_images-new\Pimg\Bags\backpack 18-19.pdf" />
     <Content Include="Content\Images\emahaschool_images-new\Pimg\Book\A4 Catalouge for Printing Without Year%281%29.pdf" />
+    <None Include="Properties\PublishProfiles\MyWeb.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\i18n\angular-locale_aa-dj.js" />
     <Content Include="Scripts\i18n\angular-locale_aa-er.js" />
@@ -1740,6 +1738,7 @@
     <Content Include="SPA\app.js" />
     <Content Include="SPA\controllers\BagController.js" />
     <Content Include="SPA\controllers\BottleController.js" />
+    <Content Include="SPA\controllers\CapController.js" />
     <Content Include="SPA\controllers\defectController.js" />
     <Content Include="SPA\controllers\homeController.js" />
     <Content Include="SPA\controllers\loginController.js" />
@@ -1747,7 +1746,7 @@
     <Content Include="SPA\controllers\salewithusController.js" />
     <Content Include="SPA\controllers\salewithusinnerpage1Controller.js" />
     <Content Include="SPA\controllers\sallewithusinnerpage2Controller.js" />
-    <Content Include="SPA\controllers\signupController.js" />
+    <Content Include="SPA\controllers\JobController.js" />
     <Content Include="SPA\directives\fileuploaddirective.js" />
     <Content Include="SPA\factories\authintercepterService.js" />
     <Content Include="SPA\factories\authService.js" />
@@ -1762,11 +1761,12 @@
     <Content Include="SPA\partials\Home\Job.html" />
     <Content Include="SPA\partials\Home\ProjectDetail.html" />
     <Content Include="SPA\partials\Home\ProjectEntryForm.html" />
-    <Content Include="SPA\partials\Home\Registration.html" />
+    <Content Include="SPA\partials\Home\Salewithus.html" />
     <Content Include="SPA\partials\Home\SaleWithUsInnerPage1.html" />
     <Content Include="SPA\partials\Home\SaleWithUsInnerPage2.html" />
     <Content Include="SPA\services\defectService.js" />
     <Content Include="SPA\services\FileUploadservice.js" />
+    <Content Include="SPA\services\jobsService.js" />
     <Content Include="SPA\services\projectService.js" />
     <Content Include="UploadedFiles\2016\December\71\6af3b019-afab-4923-8908-5adb7acae5faimages.jpg" />
     <Content Include="UploadedFiles\2016\December\71\6af3b019-afab-4923-8908-5adb7acae5faimg_fjords.jpg" />

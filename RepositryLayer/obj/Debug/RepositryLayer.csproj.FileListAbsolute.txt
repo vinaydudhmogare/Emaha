@@ -119,3 +119,17 @@ C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\RepositryLayer\bin\Debug\Ninject.x
 C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\RepositryLayer\obj\Debug\RepositryLayer.csprojResolveAssemblyReference.cache
 C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\RepositryLayer\obj\Debug\RepositryLayer.dll
 C:\Users\sagar\Desktop\UpdatedEMAHA\EMAHA\DTS\RepositryLayer\obj\Debug\RepositryLayer.pdb
+F:\DTS\RepositryLayer\bin\Debug\RepositryLayer.dll.config
+F:\DTS\RepositryLayer\bin\Debug\RepositryLayer.dll
+F:\DTS\RepositryLayer\bin\Debug\RepositryLayer.pdb
+F:\DTS\RepositryLayer\bin\Debug\DATALayer.dll
+F:\DTS\RepositryLayer\bin\Debug\EntityFramework.dll
+F:\DTS\RepositryLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\DTS\RepositryLayer\bin\Debug\Ninject.dll
+F:\DTS\RepositryLayer\bin\Debug\DATALayer.pdb
+F:\DTS\RepositryLayer\bin\Debug\EntityFramework.xml
+F:\DTS\RepositryLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\DTS\RepositryLayer\bin\Debug\Ninject.xml
+F:\DTS\RepositryLayer\obj\Debug\RepositryLayer.csprojResolveAssemblyReference.cache
+F:\DTS\RepositryLayer\obj\Debug\RepositryLayer.dll
+F:\DTS\RepositryLayer\obj\Debug\RepositryLayer.pdb

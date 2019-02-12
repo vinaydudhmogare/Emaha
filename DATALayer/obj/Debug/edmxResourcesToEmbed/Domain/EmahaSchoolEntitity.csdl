@@ -12,5 +12,20 @@
   </EntityType>
   <EntityContainer Name="EmahaSchoolEntities" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="SalesUsers" EntityType="Self.SalesUser" />
+    <EntitySet Name="Jobs" EntityType="EmahaSchoolModel.Job" />
   </EntityContainer>
+  <EntityType Name="Job">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Mobile" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Qualification" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Experience" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Company_Name" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="Current_Salary" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Area_of_Interest" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+  </EntityType>
 </Schema>

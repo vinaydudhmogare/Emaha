@@ -1,0 +1,17 @@
+F:\DTS\DATALayer\bin\Release\DATALayer.dll.config
+F:\DTS\DATALayer\bin\Release\DATALayer.dll
+F:\DTS\DATALayer\bin\Release\DATALayer.pdb
+F:\DTS\DATALayer\bin\Release\EntityFramework.dll
+F:\DTS\DATALayer\bin\Release\EntityFramework.SqlServer.dll
+F:\DTS\DATALayer\bin\Release\EntityFramework.xml
+F:\DTS\DATALayer\bin\Release\EntityFramework.SqlServer.xml
+F:\DTS\DATALayer\obj\Release\DATALayer.Migrations.Update1.resources
+F:\DTS\DATALayer\obj\Release\DATALayer.Migrations.Update2.resources
+F:\DTS\DATALayer\obj\Release\DATALayer.Migrations.Update3.resources
+F:\DTS\DATALayer\obj\Release\DATALayer.Migrations.Update4.resources
+F:\DTS\DATALayer\obj\Release\DATALayer.Migrations.Update6.resources
+F:\DTS\DATALayer\obj\Release\DATALayer.Migrations.Update7.resources
+F:\DTS\DATALayer\obj\Release\DATALayer.Migrations.Update8.resources
+F:\DTS\DATALayer\obj\Release\DATALayer.csproj.GenerateResource.Cache
+F:\DTS\DATALayer\obj\Release\DATALayer.dll
+F:\DTS\DATALayer\obj\Release\DATALayer.pdb

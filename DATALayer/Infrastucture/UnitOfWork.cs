@@ -24,7 +24,8 @@ namespace DATALayer.Infrastucture
 
         public void Commit()
         {
-           // DbContext.Commit();
+        
+            DbContext.SaveChanges();
         }
         
         

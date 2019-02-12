@@ -28,7 +28,7 @@ namespace DTS
                             "~/SPA/app.js",
                             "~/SPA/controllers/homeController.js",
                             "~/SPA/controllers/loginController.js",
-                            "~/SPA/controllers/signupController.js",
+                            "~/SPA/controllers/JobController.js",
                             "~/SPA/controllers/projectController.js",
                             "~/SPA/controllers/defectController.js",
                             "~/SPA/controllers/salewithusController.js",
@@ -43,6 +43,7 @@ namespace DTS
                             "~/SPA/factories/authintercepterService.js",
                             "~/SPA/services/projectService.js",
                             "~/SPA/services/salewithusService.js",
+                            "~/SPA/services/jobsService.js",
                             "~/SPA/services/defectService.js",
                             "~/SPA/services/FileUploadservice.js",
                             "~/SPA/directives/fileuploaddirective.js"

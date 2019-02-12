@@ -1,5 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Schema Namespace="EmahaSchoolModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Job">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="250" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="255" />
+    <Property Name="Mobile" Type="nvarchar" MaxLength="50" />
+    <Property Name="Qualification" Type="nvarchar" MaxLength="50" />
+    <Property Name="Experience" Type="nvarchar" MaxLength="100" />
+    <Property Name="Company_Name" Type="varchar" MaxLength="250" />
+    <Property Name="Current_Salary" Type="nvarchar" MaxLength="250" />
+    <Property Name="Area_of_Interest" Type="varchar" MaxLength="150" />
+  </EntityType>
   <EntityType Name="SalesUsers">
     <Key>
       <PropertyRef Name="ID" />
@@ -11,6 +25,7 @@
     <Property Name="Password" Type="nvarchar" MaxLength="50" />
   </EntityType>
   <EntityContainer Name="EmahaSchoolModelStoreContainer">
+    <EntitySet Name="Job" EntityType="Self.Job" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="SalesUsers" EntityType="Self.SalesUsers" Schema="dbo" store:Type="Tables" />
   </EntityContainer>
 </Schema>
