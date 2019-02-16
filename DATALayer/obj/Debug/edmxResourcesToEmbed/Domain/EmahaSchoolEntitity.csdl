@@ -13,6 +13,7 @@
   <EntityContainer Name="EmahaSchoolEntities" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="SalesUsers" EntityType="Self.SalesUser" />
     <EntitySet Name="Jobs" EntityType="EmahaSchoolModel.Job" />
+    <EntitySet Name="ClientRequests" EntityType="EmahaSchoolModel.ClientRequest" />
   </EntityContainer>
   <EntityType Name="Job">
     <Key>
@@ -27,5 +28,23 @@
     <Property Name="Company_Name" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
     <Property Name="Current_Salary" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
     <Property Name="Area_of_Interest" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="ClientRequest">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="School_Name" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="Appl_Title" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Appl_Logo" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="Appl_Feature" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="Reference__Application" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="Appl_Design" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="Purpose_Project" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+    <Property Name="Details_Function_Requirment" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+    <Property Name="Appli_Timeline" Type="DateTime" Precision="0" />
+    <Property Name="City" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Target_Audience" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Name="Application_Data" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
   </EntityType>
 </Schema>

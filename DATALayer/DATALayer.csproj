@@ -49,6 +49,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Domain\Attachment.cs" />
+    <Compile Include="Domain\ClientRequest.cs">
+      <DependentUpon>EmahaSchoolEntitity.tt</DependentUpon>
+    </Compile>
     <Compile Include="Domain\Defect.cs" />
     <Compile Include="Domain\DefectStatus.cs" />
     <Compile Include="Domain\EmahaSchoolEntitity.Context.cs">

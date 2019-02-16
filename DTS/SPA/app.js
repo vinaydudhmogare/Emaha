@@ -25,7 +25,7 @@
 
             .state('login', {
                 url: '/login',
-                templateUrl: 'SPA/partials/DefectTrackingSystem.html',
+                templateUrl: 'SPA/partials/Index.html',
                 controller: 'loginController'
             })
             .state('salewithus', {
@@ -59,7 +59,7 @@
                .state('ClientRequest', {
                    url: '/ClientRequest',
                    templateUrl: 'SPA/partials/Home/ClientRequest.html',
-                   controller: 'signupController',
+                   controller: 'ClientRequestController',
 
                })
 

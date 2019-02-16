@@ -4,14 +4,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 namespace ServiceLayer.Interfaces
 {
-    public interface IJobService
+   public interface IClientRequest
     {
-        IEnumerable<Job> GetAll_JobUsers();
+        IEnumerable<ClientRequest> GetAll_ClientRequestUsers();
 
-        void Save_JobsUser(Job obj_JobUser);
-
+        void Save_ClientRequestUser(ClientRequest obj_ClientRequestUser);
     }
 }

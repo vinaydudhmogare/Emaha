@@ -1,14 +1,15 @@
-﻿using System;
+﻿using DATALayer.Domain;
+using ServiceLayer.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
-using DATALayer.Domain;
-using ServiceLayer.Interfaces;
 
 namespace DTS.Controllers
 {
+    [RoutePrefix("api/Job")]
     public class JobController : ApiController
     {
 
@@ -44,6 +45,8 @@ namespace DTS.Controllers
         /// API to save the Details of Sales User.
         /// </summary>
         /// <param name="obj_JobUser"></param>
+
+   
         [Route("AddJobUser")]
         public void Post([FromBody]Job obj_JobUser)
         {

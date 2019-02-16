@@ -208,6 +208,7 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\ClientRequestController.cs" />
     <Compile Include="Controllers\DefectController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\JobController.cs" />
@@ -1739,6 +1740,7 @@
     <Content Include="SPA\controllers\BagController.js" />
     <Content Include="SPA\controllers\BottleController.js" />
     <Content Include="SPA\controllers\CapController.js" />
+    <Content Include="SPA\controllers\ClientRequestController.js" />
     <Content Include="SPA\controllers\defectController.js" />
     <Content Include="SPA\controllers\homeController.js" />
     <Content Include="SPA\controllers\loginController.js" />
@@ -1750,7 +1752,7 @@
     <Content Include="SPA\directives\fileuploaddirective.js" />
     <Content Include="SPA\factories\authintercepterService.js" />
     <Content Include="SPA\factories\authService.js" />
-    <Content Include="SPA\partials\DefectTrackingSystem.html" />
+    <Content Include="SPA\partials\Index.html" />
     <Content Include="SPA\partials\Home.html" />
     <Content Include="SPA\partials\Home\Bag.html" />
     <Content Include="SPA\partials\Home\Bottles.html" />
@@ -1764,6 +1766,7 @@
     <Content Include="SPA\partials\Home\Salewithus.html" />
     <Content Include="SPA\partials\Home\SaleWithUsInnerPage1.html" />
     <Content Include="SPA\partials\Home\SaleWithUsInnerPage2.html" />
+    <Content Include="SPA\services\ClientRequestService.js" />
     <Content Include="SPA\services\defectService.js" />
     <Content Include="SPA\services\FileUploadservice.js" />
     <Content Include="SPA\services\jobsService.js" />

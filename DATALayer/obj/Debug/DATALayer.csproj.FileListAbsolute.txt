@@ -168,4 +168,3 @@ F:\DTS\DATALayer\obj\Debug\DATALayer.Migrations.Update8.resources
 F:\DTS\DATALayer\obj\Debug\DATALayer.csproj.GenerateResource.Cache
 F:\DTS\DATALayer\obj\Debug\DATALayer.dll
 F:\DTS\DATALayer\obj\Debug\DATALayer.pdb
-F:\DTS\DATALayer\obj\Debug\DATALayer.csprojResolveAssemblyReference.cache

@@ -36,7 +36,8 @@ namespace DTS
                             "~/SPA/controllers/BottleController.js",
                             "~/SPA/controllers/CapController.js",
                             "~/SPA/controllers/salewithusinnerpage1Controller.js",
-                            "~/SPA/controllers/salewithusinnerpage2Controller.js"));
+                            "~/SPA/controllers/salewithusinnerpage2Controller.js",
+                             "~/SPA/controllers/ClientRequestController.js"));
 
             bundles.Add(new ScriptBundle("~/bundles/ngFactories").Include(
                             "~/SPA/factories/authService.js",
@@ -44,11 +45,13 @@ namespace DTS
                             "~/SPA/services/projectService.js",
                             "~/SPA/services/salewithusService.js",
                             "~/SPA/services/jobsService.js",
+                            "~/SPA/services/ClientRequestService.js",
                             "~/SPA/services/defectService.js",
                             "~/SPA/services/FileUploadservice.js",
                             "~/SPA/directives/fileuploaddirective.js"
-                          
-                            ));
+                           ));
+
+
 
 
             bundles.Add(new ScriptBundle("~/bundles/angular").Include(

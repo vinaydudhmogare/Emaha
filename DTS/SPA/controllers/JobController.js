@@ -13,7 +13,7 @@
             Area_of_Interest:""
            
         };
-          debugger;
+         
         //function to save Project data //
         $scope.saveDataJob = function (Job) {
             debugger;

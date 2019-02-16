@@ -5,6 +5,24 @@
     <!-- SSDL content -->
     <edmx:StorageModels>
     <Schema Namespace="EmahaSchoolModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="ClientRequest">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="School_Name" Type="varchar" MaxLength="250" />
+          <Property Name="Appl_Title" Type="varchar" MaxLength="100" />
+          <Property Name="Appl_Logo" Type="varchar" MaxLength="250" />
+          <Property Name="Appl_Feature" Type="varchar" MaxLength="250" />
+          <Property Name="Reference _Application" Type="varchar" MaxLength="250" />
+          <Property Name="Appl_Design" Type="varchar" MaxLength="250" />
+          <Property Name="Purpose_Project" Type="varchar" MaxLength="300" />
+          <Property Name="Details_Function_Requirment" Type="varchar" MaxLength="300" />
+          <Property Name="Appli_Timeline" Type="date" />
+          <Property Name="City" Type="varchar" MaxLength="50" />
+          <Property Name="Target_Audience" Type="varchar" MaxLength="200" />
+          <Property Name="Application_Data" Type="varchar" MaxLength="300" />
+        </EntityType>
         <EntityType Name="Job">
           <Key>
             <PropertyRef Name="ID" />
@@ -30,6 +48,7 @@
           <Property Name="Password" Type="nvarchar" MaxLength="50" />
         </EntityType>
         <EntityContainer Name="EmahaSchoolModelStoreContainer">
+          <EntitySet Name="ClientRequest" EntityType="Self.ClientRequest" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Job" EntityType="Self.Job" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="SalesUsers" EntityType="Self.SalesUsers" Schema="dbo" store:Type="Tables" />
         </EntityContainer>
@@ -50,6 +69,7 @@
         <EntityContainer Name="EmahaSchoolEntities" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="SalesUsers" EntityType="Self.SalesUser" />
           <EntitySet Name="Jobs" EntityType="EmahaSchoolModel.Job" />
+          <EntitySet Name="ClientRequests" EntityType="EmahaSchoolModel.ClientRequest" />
         </EntityContainer>
         <EntityType Name="Job">
           <Key>
@@ -64,6 +84,24 @@
           <Property Name="Company_Name" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
           <Property Name="Current_Salary" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
           <Property Name="Area_of_Interest" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="ClientRequest">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="School_Name" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+          <Property Name="Appl_Title" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Appl_Logo" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+          <Property Name="Appl_Feature" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+          <Property Name="Reference__Application" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+          <Property Name="Appl_Design" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+          <Property Name="Purpose_Project" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+          <Property Name="Details_Function_Requirment" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+          <Property Name="Appli_Timeline" Type="DateTime" Precision="0" />
+          <Property Name="City" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Target_Audience" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+          <Property Name="Application_Data" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
         </EntityType>
       </Schema>
     </edmx:ConceptualModels>
@@ -93,6 +131,25 @@
                 <ScalarProperty Name="Mobile" ColumnName="Mobile" />
                 <ScalarProperty Name="Email" ColumnName="Email" />
                 <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ClientRequests">
+            <EntityTypeMapping TypeName="EmahaSchoolModel.ClientRequest">
+              <MappingFragment StoreEntitySet="ClientRequest">
+                <ScalarProperty Name="Application_Data" ColumnName="Application_Data" />
+                <ScalarProperty Name="Target_Audience" ColumnName="Target_Audience" />
+                <ScalarProperty Name="City" ColumnName="City" />
+                <ScalarProperty Name="Appli_Timeline" ColumnName="Appli_Timeline" />
+                <ScalarProperty Name="Details_Function_Requirment" ColumnName="Details_Function_Requirment" />
+                <ScalarProperty Name="Purpose_Project" ColumnName="Purpose_Project" />
+                <ScalarProperty Name="Appl_Design" ColumnName="Appl_Design" />
+                <ScalarProperty Name="Reference__Application" ColumnName="Reference _Application" />
+                <ScalarProperty Name="Appl_Feature" ColumnName="Appl_Feature" />
+                <ScalarProperty Name="Appl_Logo" ColumnName="Appl_Logo" />
+                <ScalarProperty Name="Appl_Title" ColumnName="Appl_Title" />
+                <ScalarProperty Name="School_Name" ColumnName="School_Name" />
                 <ScalarProperty Name="ID" ColumnName="ID" />
               </MappingFragment>
             </EntityTypeMapping>

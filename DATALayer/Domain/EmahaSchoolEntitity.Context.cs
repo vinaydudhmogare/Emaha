@@ -27,5 +27,6 @@ namespace DATALayer.Domain
     
         public virtual DbSet<SalesUser> SalesUsers { get; set; }
         public virtual DbSet<Job> Jobs { get; set; }
+        public virtual DbSet<ClientRequest> ClientRequests { get; set; }
     }
 }

@@ -1,12 +1,12 @@
 ﻿(function () {
-    angular.module('app').service('jobService', ['$http', function ($http) {
+    angular.module('app').service('ClientRequestService', ['$http', function ($http) {
 
         var self = this;
 
         //Service Function to Add Project Data Via AJAX call//
-        self.AddJob = function (Job) {
+        self.AddClientRequest = function (ClientRequestUser) {
 
-            return $http.post('api/Job/AddJobUser', Job)
+            return $http.post('api/ClientRequest/AddClientRequestUser', ClientRequestUser)
         }
 
         //Service function to get list of parent project//

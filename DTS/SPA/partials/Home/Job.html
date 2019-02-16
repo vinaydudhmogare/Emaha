@@ -493,13 +493,13 @@
 
                     <div class="form-group" ng-class="{ 'has-error' : Job.Name.$invalid && !Job.Name.$pristine }">
                         <label for="name">Your Name*:</label>
-                        <input type="text" class="form-control" id="name" name="Name" placeholder="Enter your Full Name.." ng-model="Job.Name" required>
+                        <input type="text" class="form-control" id="name" name="fullName" placeholder="Enter your Full Name.."  ng-model="Job.Name" required>
                     </div>
 
 
                     <div class="form-group" ng-class="{ 'has-error' : Job.Email.$invalid && !Job.Email.$pristine }">
                         <label for="Email">Your Email* :</label>
-                        <input type="text" class="form-control" id="Email" name="Application Email" placeholder="Your Email.." ng-model="Job.Name" required>
+                        <input type="text" class="form-control" id="Email" name="Application Email" placeholder="Your Email.." ng-model="Job.Email" required>
                     </div>
                     <div class="form-group" ng-class="{ 'has-error' : Job.Mobile.$invalid && !Job.Mobile.$pristine }">
                         <label for="Number">Your Mobile Number* :</label>
@@ -507,10 +507,12 @@
                         <input type="text" class="form-control"  placeholder="91"  ng-model="Job.Mobile" required>
 
                     </div>
+                  
                     <div class="form-group" ng-class="{ 'has-error' : Job.Qualification.$invalid && !Job.Qualification.$pristine }">
-                        <label for="Qualification">Qualification* :</label>
-                        <input type="text" class="form-control" id="Qualification" name="Qualification " placeholder="Qualification.."  ng-model="Job.Qualification" required>
+                        <label for="Company Name">Qualification* :</label>
+                        <input type="text" class="form-control" rows="5" id="Qualification "  placeholder="Qualification" ng-model="Job.Qualification" required>
                     </div>
+
                     <div class="form-group" ng-class="{ 'has-error' : Job.Experience.$invalid && !Job.Experience.$pristine }">
                         <label for="ref">Experience* : </label>
                         <input type="text" class="form-control" id="Experience" name="Reference" placeholder="Experience.."  ng-model="Job.Experience" required>

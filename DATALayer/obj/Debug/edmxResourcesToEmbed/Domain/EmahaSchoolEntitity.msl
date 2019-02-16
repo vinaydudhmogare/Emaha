@@ -27,5 +27,24 @@
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
+    <EntitySetMapping Name="ClientRequests">
+      <EntityTypeMapping TypeName="EmahaSchoolModel.ClientRequest">
+        <MappingFragment StoreEntitySet="ClientRequest">
+          <ScalarProperty Name="Application_Data" ColumnName="Application_Data" />
+          <ScalarProperty Name="Target_Audience" ColumnName="Target_Audience" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Appli_Timeline" ColumnName="Appli_Timeline" />
+          <ScalarProperty Name="Details_Function_Requirment" ColumnName="Details_Function_Requirment" />
+          <ScalarProperty Name="Purpose_Project" ColumnName="Purpose_Project" />
+          <ScalarProperty Name="Appl_Design" ColumnName="Appl_Design" />
+          <ScalarProperty Name="Reference__Application" ColumnName="Reference _Application" />
+          <ScalarProperty Name="Appl_Feature" ColumnName="Appl_Feature" />
+          <ScalarProperty Name="Appl_Logo" ColumnName="Appl_Logo" />
+          <ScalarProperty Name="Appl_Title" ColumnName="Appl_Title" />
+          <ScalarProperty Name="School_Name" ColumnName="School_Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
   </EntityContainerMapping>
 </Mapping>
